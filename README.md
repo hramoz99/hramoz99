@@ -21,6 +21,7 @@ Estudando redes de computadores,  infraestrutura, cabeamento estruturado, config
 ![image](https://user-images.githubusercontent.com/78046279/124008776-2bac0800-d9b3-11eb-8adc-a3664344f785.png)
 ![image](https://user-images.githubusercontent.com/78046279/124008786-2f3f8f00-d9b3-11eb-98a6-e123d30b0b8a.png)
 ![image](https://user-images.githubusercontent.com/78046279/124008816-3c5c7e00-d9b3-11eb-9018-7984fba03a33.png)
+![image](https://user-images.githubusercontent.com/78046279/124010020-a9244800-d9b4-11eb-8f92-8d24a4520799.png)
 
 
 <!---
