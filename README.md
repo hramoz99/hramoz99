@@ -1,6 +1,6 @@
 # Olá, eu sou o Hugo Ramoz
 
-Conhecimento em Redes de Computadores: redes TCP / IP, infraestrutura, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware e Infraestrutura de Redes Internas
+Redes de computadores,  infraestrutura, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware,Planejamento, projeto e infraestrutura de redes internas.
 
 Configuração e manutenção de serviços de rede (servidores).
 
