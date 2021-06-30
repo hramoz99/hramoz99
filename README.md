@@ -6,7 +6,7 @@ Configuração e manutenção de serviços de rede (servidores).
 
 Conhecimento de: Cloud Computing, sistemas Linux, configurações de equipamentos Cisco, switches e roteadores.
 
-
+🧠🌎 "O único homem que está insento de erros é aquele que não arrisca acertar" (Albert Eistein)
 
 
 
