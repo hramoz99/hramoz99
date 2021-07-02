@@ -2,8 +2,7 @@
 
 Estudando redes de computadores,  infraestrutura, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware,Planejamento, projeto e infraestrutura de redes internas, configuração e manutenção de serviços de rede (servidores). Também, conhecimento de: Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco, switches e roteadores.
 
-🌎 "A vitória sempre foi de quem nunca duvidou dela"
-
+🌎 "O único homem que está isento de erros é aquele que não arrisca acertar" 
 
 
 - 📫 Meios de comunicação: hugoramoz37@gmail.com
