@@ -6,6 +6,8 @@ Estudando redes de computadores,  infraestrutura, cabeamento estruturado, config
 
 
 - 📫 Meios de comunicação: hugoramoz37@gmail.com
+
+
   
   
   🚀💻 Tecnologias
