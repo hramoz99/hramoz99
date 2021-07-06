@@ -1,14 +1,14 @@
-# Olá, eu sou o Hugo Ramoz
+# Ei  👋
+Eu sou o Hugo Ramoz 
 
-Estudando redes de computadores,  infraestrutura, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware,Planejamento, projeto e infraestrutura de redes internas, configuração e manutenção de serviços de rede (servidores). Também, conhecimento de: Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco, switches e roteadores.
+Estudando redes de computadores, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware, infraestrutura de redes, configuração e manutenção de serviços de rede (servidores), Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco.
+
 
 🌎 "O único homem que está isento de erros é aquele que não arrisca acertar" 
 
 
-- 📫 Meios de comunicação: hugoramoz37@gmail.com
+- 📫 Meios de comunicação:   hugoramoz37@gmail.com
 
-
-  
   
   🚀💻 Tecnologias
   
