@@ -4,10 +4,14 @@ Eu sou o Hugo Ramoz
 Estudando redes de computadores, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware, infraestrutura de redes, configuração e manutenção de serviços de rede (servidores), Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco, programação e Big Date.
 
 
-🌎 "O único homem que está isento de erros é aquele que não arrisca acertar" 
+🌎 **"O único homem que está isento de erros é aquele que não arrisca acertar"**
 
+- 📫 Meios de comunicação:   
 
-- 📫 Meios de comunicação:   hugoramoz37@gmail.com
+![image](https://user-images.githubusercontent.com/78046279/124645288-a371ab00-de69-11eb-9cfb-fe4037f93a86.png)
+![image](https://user-images.githubusercontent.com/78046279/124645227-8e951780-de69-11eb-8ff0-405076601dfc.png)
+![image](https://user-images.githubusercontent.com/78046279/124645436-cef49580-de69-11eb-8845-b63ba7b49ad8.png)
+
 
   
   🚀💻 Tecnologias
@@ -23,6 +27,8 @@ Estudando redes de computadores, cabeamento estruturado, configuração de dispo
 ![image](https://user-images.githubusercontent.com/78046279/124008786-2f3f8f00-d9b3-11eb-98a6-e123d30b0b8a.png)
 ![image](https://user-images.githubusercontent.com/78046279/124008816-3c5c7e00-d9b3-11eb-9018-7984fba03a33.png)
 ![image](https://user-images.githubusercontent.com/78046279/124010020-a9244800-d9b4-11eb-8f92-8d24a4520799.png)
+![image](https://user-images.githubusercontent.com/78046279/124645775-37dc0d80-de6a-11eb-9c83-e1bd55501bd6.png)
+
 
 
 <!---
