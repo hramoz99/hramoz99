@@ -1,5 +1,5 @@
 # Ei  👋
-Eu sou o Hugo Ramoz 
+Eu sou o Hugo Ramoz 👦🏻
 
 Estudando redes de computadores, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware, infraestrutura de redes, configuração e manutenção de serviços de rede (servidores), Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco e Programação: JavaScript, Pythom, R e C++
 
