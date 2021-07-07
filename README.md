@@ -1,8 +1,7 @@
 # Ei  👋
 Eu sou o Hugo Ramoz 
 
-Estudando redes de computadores, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware, infraestrutura de redes, configuração e manutenção de serviços de rede (servidores), Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco, programação e Big Date.
-
+Estudando redes de computadores, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware, infraestrutura de redes, configuração e manutenção de serviços de rede (servidores), Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco e Programação: JavaScript, Pythom, R e C++
 
 🌎 **"O único homem que está isento de erros é aquele que não arrisca acertar"**
 
@@ -28,6 +27,8 @@ Estudando redes de computadores, cabeamento estruturado, configuração de dispo
 ![image](https://user-images.githubusercontent.com/78046279/124008816-3c5c7e00-d9b3-11eb-9018-7984fba03a33.png)
 ![image](https://user-images.githubusercontent.com/78046279/124010020-a9244800-d9b4-11eb-8f92-8d24a4520799.png)
 ![image](https://user-images.githubusercontent.com/78046279/124645775-37dc0d80-de6a-11eb-9c83-e1bd55501bd6.png)
+![image](https://user-images.githubusercontent.com/78046279/124752681-889d4600-defe-11eb-80f3-87c19b0da381.png)
+
 
 
 
