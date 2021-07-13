@@ -1,4 +1,4 @@
-# Ei  👋
+# Ei 👋🏻
 
 Meu nome é Hugo Ramoz 🧑🏻
 
