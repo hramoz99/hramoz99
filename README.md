@@ -6,7 +6,7 @@ Estudando redes de computadores, programação, cabeamento estruturado, configur
 
 🌎 **"O único homem que está isento de erros é aquele que não arrisca acertar"**
 
-- 📫 Meios de comunicação:   
+- ### 📫 Meios de comunicação: 
 
 ![image](https://user-images.githubusercontent.com/78046279/124645288-a371ab00-de69-11eb-9cfb-fe4037f93a86.png)
 ![image](https://user-images.githubusercontent.com/78046279/124645227-8e951780-de69-11eb-8ff0-405076601dfc.png)
@@ -14,7 +14,7 @@ Estudando redes de computadores, programação, cabeamento estruturado, configur
 
 
   
-  🚀💻 Tecnologias
+### 🚀💻 Tecnologias
   
  ![image](https://user-images.githubusercontent.com/78046279/124008175-85f89900-d9b2-11eb-84a0-af6596378c34.png)
  ![image](https://user-images.githubusercontent.com/78046279/124008653-0919ef00-d9b3-11eb-8081-4316fbd1042a.png)
