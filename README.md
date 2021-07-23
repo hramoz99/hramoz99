@@ -2,7 +2,7 @@
 
 ### Meu nome é Hugo Ramoz 🧑🏻
 
-Estudando redes de computadores, programação, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware, infraestrutura, configuração e manutenção de servidores, Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco.
+Conhecimento de redes de computadores, programação, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware, infraestrutura, configuração e manutenção de servidores, Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco.
 
 🌎 **"O único homem que está isento de erros é aquele que não arrisca acertar"** 🧠
 
