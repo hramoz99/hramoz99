@@ -9,7 +9,7 @@ Conhecimento de redes de computadores, programação, cabeamento estruturado, co
 - ### 📫 Meios de comunicação: 
 
 ![image](https://user-images.githubusercontent.com/78046279/124645288-a371ab00-de69-11eb-9cfb-fe4037f93a86.png)
-![image](https://user-images.githubusercontent.com/78046279/124645227-8e951780-de69-11eb-8ff0-405076601dfc.png)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511982815374)](https://api.whatsapp.com/send?phone=5511982815374)
 ![image](https://user-images.githubusercontent.com/78046279/124645436-cef49580-de69-11eb-8845-b63ba7b49ad8.png)
 
 
