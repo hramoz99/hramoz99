@@ -13,6 +13,7 @@ Conhecimento de redes de computadores, programação, cabeamento estruturado, co
 
 
 
+
   
 ### 🚀💻 Tecnologias
   
