@@ -5,8 +5,10 @@
 - Conhecimento de redes de computadores e Programação (Developer)
 -  Manutenção e configuração de dispositivos de rede
  - Cloud Computing (AWS)
+
+- Equipamentos Cisco IOS   
  - Sistemas Linux
- - Equipamentos Cisco.
+
 
 🌎 **"O único homem que está isento de erros é aquele que não arrisca acertar"** 🧠
 
