@@ -2,7 +2,11 @@
 
 ### Meu nome é Hugo Ramoz 🧑🏻
 
-Conhecimento de redes de computadores, programação, cabeamento estruturado, configuração de dispositivos de rede, manutenção de hardware, infraestrutura, configuração e manutenção de servidores, Cloud Computing (AWS), sistemas Linux, configurações de equipamentos Cisco.
+- Conhecimento de redes de computadores e Programação (Developer)
+-  Manutenção e configuração de dispositivos de rede
+ - Cloud Computing (AWS)
+ - Sistemas Linux
+ - Equipamentos Cisco.
 
 🌎 **"O único homem que está isento de erros é aquele que não arrisca acertar"** 🧠
 
