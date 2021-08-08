@@ -9,8 +9,8 @@
 - Equipamentos Cisco IOS   
  - Sistemas Linux
 
+### "O único homem que está isento de erros é aquele que não arrisca acertar" 🧠
 
-🌎 **"O único homem que está isento de erros é aquele que não arrisca acertar"** 🧠
 
 - ### 📫 Meios de comunicação: 
 
