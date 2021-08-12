@@ -2,7 +2,7 @@
 
 ### Meu nome é Hugo Ramoz 🧑🏻
 
-- Redes de Computadores e Programção  (Developer)
+- Técnico de Redes de Computadores e Developer
 -  Manutenção e configuração de dispositivos de rede
  - Cloud Computing (AWS)
 
