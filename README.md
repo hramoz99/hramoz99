@@ -12,7 +12,7 @@
 #### 🌎"O único homem que está isento de erros é aquele que não arrisca acertar" 🧠
 
 
-- ### 📫 Meios de comunicação: 
+### 📫 Meios de comunicação:
 
 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511982815374)](https://api.whatsapp.com/send?phone=5511982815374)
