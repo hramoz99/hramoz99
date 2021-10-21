@@ -2,7 +2,8 @@
 
 ### Meu nome é Hugo Ramoz 🧑🏻
 
-- Técnico de Redes de Computadores e Developer
+- Técnico de Redes de Computadores 
+- Developer
  - Cloud Computing (AWS)
 
 - Equipamentos Cisco IOS   
