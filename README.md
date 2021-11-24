@@ -2,7 +2,8 @@
 
 ### Meu nome é Hugo Ramoz 🧑🏻
 
-- DeVops
+- Técnico de Redes de Computadores
+- DevOps
  - Cloud Computing 
 
 - Equipamentos Cisco IOS   
