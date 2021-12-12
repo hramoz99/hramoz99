@@ -7,7 +7,7 @@
  - Cloud Computing 
 
 - Equipamentos Cisco IOS   
- - Sistemas Linux
+ - Sistemas Linux/ Windows
 
 #### 🌎"O único homem que está isento de erros é aquele que não arrisca acertar" 🧠
 
