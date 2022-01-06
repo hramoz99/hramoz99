@@ -4,7 +4,7 @@
 
 - Técnico de Redes de Computadores
 - Desenvolvedor 
- - Cloud Computing 
+ - Computação em Nuvem
 
 - Equipamentos Cisco IOS   
  - Sistemas Linux/ Windows
