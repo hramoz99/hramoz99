@@ -1,22 +1,29 @@
 # Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
 
-Meu nome é Hugo Ramoz, tenho 19 anos e sou apaixonado em busca por conhecimento e desenvolver soluções!💜
+Meu chamo Hugo Ramoz, tenho 19 anos e sou apaixonado em desenvolver soluções!💜
 
-Técnico de redes de computadores com conhecimentos holísticos de desenvolvimento. Tenho experiência em configuração de dispositivos de rede, manutenção de computadores, Computação em Nuvem e sistemas Linux e Windows.💻🚀
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
+
+Técnico de redes de computadores com conhecimentos holísticos de desenvolvimento. Tenho experiência em configuração de dispositivos de rede, manutenção de computadores e Computação em Nuvem.💻
+
+🔎 Procurando novas oportunidades
+
+📍   São Paulo, SP - Brasil
 
   
 ### Tecnologias & Ferramentas 🛠
 
-  
-![image](https://user-images.githubusercontent.com/78046279/148461823-ee0b481f-9999-447d-9cf1-02e08d9a9dbf.png)
-![image](https://user-images.githubusercontent.com/78046279/126395578-828e97d3-05f4-4865-9647-3a4cb05c152f.png)
 ![image](https://user-images.githubusercontent.com/78046279/126395601-e59ee0ac-e33d-4cb7-86e6-147794a8dc0b.png)
-![image](https://user-images.githubusercontent.com/78046279/126395744-c6eecdfe-7b47-423e-b8df-34d008816523.png)
-
-![image](https://user-images.githubusercontent.com/78046279/128557679-39abc14c-28bd-4c0b-985d-6c52fa1f155a.png)
+![image](https://user-images.githubusercontent.com/78046279/148461823-ee0b481f-9999-447d-9cf1-02e08d9a9dbf.png)
 ![image](https://user-images.githubusercontent.com/78046279/126395766-47c98fa3-8ab9-4c73-b95e-cf9bd83234a4.png)
 
 ![image](https://user-images.githubusercontent.com/78046279/124008175-85f89900-d9b2-11eb-84a0-af6596378c34.png)
+![image](https://user-images.githubusercontent.com/78046279/126395744-c6eecdfe-7b47-423e-b8df-34d008816523.png)
+
+![image](https://user-images.githubusercontent.com/78046279/126395578-828e97d3-05f4-4865-9647-3a4cb05c152f.png)
+![image](https://user-images.githubusercontent.com/78046279/128557679-39abc14c-28bd-4c0b-985d-6c52fa1f155a.png)
+
+
 
 ### 📫 Meios de comunicação:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hugoramoz37@gmail.com)](mailto:hugoramoz37@gmail.com/)
