@@ -1,13 +1,9 @@
 # Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
 
-### Meu nome é Hugo Ramoz 🧑🏻
+Meu nome é Hugo Ramoz, tenho 19 anos e sou apaixonado em desenvolver soluções!💜
 
-- Técnico de Redes de Computadores
-- Desenvolvedor 
- - Computação em Nuvem
+Técnico de redes de computadores com conhecimentos holísticos de desenvolvimento. Tenho experiência em configuração de dispositivos de rede, manutenção de computadores e dispositivos de rede, planejamento de infraestruturas interna, Computação em Nuvem e sistemas Linux / Windows.
 
-- Equipamentos Cisco IOS   
- - Sistemas Linux/ Windows
 
 #### 🌎"O único homem que está isento de erros é aquele que não arrisca acertar" 🧠
 
