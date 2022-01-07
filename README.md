@@ -4,7 +4,7 @@
 
 Meu nome é Hugo Ramoz, tenho 19 anos e sou apaixonado em desenvolver soluções!💙
 
-Sou Técnico de redes de computadores com conhecimentos holísticos de desenvolvimento. Experiência em manutenção de computadores, Cloud Computing, configuração de dispositivos de rede e linguagens C++ e Python. 💻
+Sou Técnico de redes de computadores com conhecimentos holísticos de desenvolvimento. Experiência em manutenção de computadores, computação em nuvem, configuração de dispositivos de rede e linguagens C++ e Python. 💻
 <br><br>
 🔎 Procurando novas oportunidades <br>
  📍   São Paulo, SP - Brasil<br>
