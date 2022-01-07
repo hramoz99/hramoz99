@@ -8,7 +8,7 @@ Técnico de redes de computadores com conhecimentos holísticos de desenvolvimen
 
 🔎 Procurando novas oportunidades
 
-📍   São Paulo, SP - Brasil
+🧠 "Disciplina é a chave para o sucesso."
 
   
 # Tecnologias & Ferramentas 🛠
