@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
 
-Meu chamo Hugo Ramoz, tenho 19 anos e sou apaixonado em desenvolver soluções!💜
+Me chamo Hugo Ramoz, tenho 19 anos e sou apaixonado em desenvolver soluções!💜
 
 Sou Técnico de redes de computadores com conhecimentos holísticos de desenvolvimento. Tenho experiência em configuração de dispositivos de rede, manutenção de computadores e Computação em Nuvem. 💻
 <br><br>
