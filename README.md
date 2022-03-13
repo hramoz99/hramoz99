@@ -4,7 +4,7 @@
 
 Meu nome é Hugo Ramoz, tenho 19 anos e sou apaixonado em desenvolver soluções!
 
-Sou Técnico de redes de computadores com conhecimentos holísticos de programação. Experiência em manutenção de computadores, configuração de dispositivos de rede, computação em nuvem e linguagens C++ e Python. 💻
+Sou Técnico de redes de computadores com conhecimentos holísticos de programação. Experiência em manutenção de computadores, configuração de dispositivos de rede, computação em nuvem e linguagens C++, CSS, JS e Python. 💻
 <br><br>
 🔎 Procurando novas oportunidades <br>
  📍   São Paulo, SP - Brasil<br>
@@ -26,6 +26,13 @@ Sou Técnico de redes de computadores com conhecimentos holísticos de programa�
 ![image](https://user-images.githubusercontent.com/78046279/126395601-e59ee0ac-e33d-4cb7-86e6-147794a8dc0b.png)
 ![image](https://user-images.githubusercontent.com/78046279/148461823-ee0b481f-9999-447d-9cf1-02e08d9a9dbf.png)
 ![image](https://user-images.githubusercontent.com/78046279/126395766-47c98fa3-8ab9-4c73-b95e-cf9bd83234a4.png)
+
+
+<code><img height="40" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
+<code><img height="43" src="https://user-images.githubusercontent.com/78046279/158082485-3ce60256-28f4-452a-87e3-7d977a364108.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 
 
 
