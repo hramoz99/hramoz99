@@ -27,10 +27,7 @@ Sou Técnico de redes de computadores com conhecimentos holísticos de programa�
 ![image](https://user-images.githubusercontent.com/78046279/148461823-ee0b481f-9999-447d-9cf1-02e08d9a9dbf.png)
 ![image](https://user-images.githubusercontent.com/78046279/126395766-47c98fa3-8ab9-4c73-b95e-cf9bd83234a4.png)
 
-<div>
-  <a href="https://github.com/hramoz99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+
 
 
 # 📫 Meios de comunicação:
