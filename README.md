@@ -13,9 +13,6 @@ Sou técnico de redes de computadores com conhecimentos holísticos de programa�
 
   
 # Tecnologias & Ferramentas 🛠
-![image](https://user-images.githubusercontent.com/78046279/124008175-85f89900-d9b2-11eb-84a0-af6596378c34.png)
-![image](https://user-images.githubusercontent.com/78046279/148461823-ee0b481f-9999-447d-9cf1-02e08d9a9dbf.png)
-
 
 <code><img height="25" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
