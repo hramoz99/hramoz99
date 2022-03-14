@@ -12,7 +12,7 @@ Sou técnico de redes de computadores com conhecimentos holísticos de desenvolv
 
 
   
-# Tecnologias & Ferramentas 🛠
+#  🛠 Tecnologias & Ferramentas
 
 <code><img height="28" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
