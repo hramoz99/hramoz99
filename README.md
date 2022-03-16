@@ -12,7 +12,7 @@ Sou técnico de redes de computadores com conhecimentos holísticos de desenvolv
 
 
   
-#  🛠 Tecnologias & Ferramentas
+## 🚀 Tecnologias 
 
 <code><img height="28" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
@@ -23,7 +23,7 @@ Sou técnico de redes de computadores com conhecimentos holísticos de desenvolv
 
 
 
-# 📫 Meios de comunicação
+## 📫 Meios de comunicação
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hugoramoz37@gmail.com)](mailto:hugoramoz37@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-ramoz-234473221/)](https://www.linkedin.com/in/hugo-ramoz-234473221/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511982815374)](https://api.whatsapp.com/send?phone=5511982815374)
