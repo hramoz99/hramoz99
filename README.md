@@ -16,8 +16,8 @@ Sou técnico de redes de computadores com conhecimentos holísticos de desenvolv
 
 <code><img height="26" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
 <code><img height="26" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
-<code><img height="29" src="https://user-images.githubusercontent.com/78046279/158083600-12038948-e2ac-4bf6-880f-dc70e1bc9dd8.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="29" src="https://user-images.githubusercontent.com/78046279/158083600-12038948-e2ac-4bf6-880f-dc70e1bc9dd8.png"></code>
 <code><img height="29" src="https://user-images.githubusercontent.com/78046279/158082660-b996d15f-1dbc-44b7-b685-aec6ad72c7bf.png"></code>
 
 
