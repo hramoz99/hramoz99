@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 I am a computer network technician with holistic development knowledge
+- 💼 computer networks Technician with development knowledge
 
 - 💜 I love develop solutions
 
