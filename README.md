@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="250" width="250px" align="right">
 
-Studied in Colégio São Luiz; Graduated in Computer Networks at SENAI; Currently studying Information Systems (IS) at FIAP.
+Studied in Colégio São Luiz; Graduated in Computer Networks at SENAI; Currently studying Information Systems at FIAP.
 
 
 **About me**
