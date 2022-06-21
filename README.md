@@ -1,33 +1,23 @@
-# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="40" width="35px">
+# Hello, Hugo Ramoz aqui!
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="250" width="250px" align="right">
 
-Meu nome é Hugo Ramoz, tenho 19 anos e sou apaixonado em desenvolver soluções!
+**About me**
 
-Sou técnico de redes de computadores com conhecimentos holísticos de desenvolvimento. Experiência em manutenção de computadores, computação em nuvem, configuração de dispositivos de rede e linguagens de programação. 💻
-<br><br>
-🔎 Procurando novas oportunidades <br>
- 📍   São Paulo, SP - Brasil<br>
+- 💼 I am a computer network technician with holistic development knowledge
 
+- 💜 I love develop solutions
 
+- 📈 Looking for new opportunities
 
-  
-## Tecnologias 🛠
+- 📍  São Paulo, SP - Brasil
 
-<code><img height="26" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
-<code><img height="26" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="29" src="https://user-images.githubusercontent.com/78046279/158083600-12038948-e2ac-4bf6-880f-dc70e1bc9dd8.png"></code>
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/hugo-ramoz-234473221/)
 
-
-
-## Onde me encontrar 👇🏼
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hugoramoz37@gmail.com)](mailto:hugoramoz37@gmail.com/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-ramoz-234473221/)](https://www.linkedin.com/in/hugo-ramoz-234473221/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511982815374)](https://api.whatsapp.com/send?phone=5511982815374)
-
-
-
+<code><img height="20" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24.5" src="https://user-images.githubusercontent.com/78046279/174895278-371be210-7ca1-4709-9f69-7aa216142e79.png"></code>
 
 
 
