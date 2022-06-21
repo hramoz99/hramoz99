@@ -1,4 +1,4 @@
-# Hello, Hugo Ramoz aqui!
+# Hello, Hugo Ramoz here!
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="250" width="250px" align="right">
 
