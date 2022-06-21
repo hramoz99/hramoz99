@@ -1,6 +1,6 @@
-# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
+# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="40" width="35px">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="250" width="250px" align="right">
 
 Meu nome é Hugo Ramoz, tenho 19 anos e sou apaixonado em desenvolver soluções!
 
