@@ -7,7 +7,7 @@ Studying Information Systems at FIAP.
 
 **About me**
 
-- 💼 computer networks Technician with development knowledge
+- 💼 Information Systems Analyst
 
 - 💜 I love develop solutions
 
