@@ -20,7 +20,6 @@ Studying Information Systems at FIAP.
 <code><img height="20" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24.5" src="https://user-images.githubusercontent.com/78046279/174895278-371be210-7ca1-4709-9f69-7aa216142e79.png"></code>
 
 
 
