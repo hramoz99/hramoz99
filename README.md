@@ -1,6 +1,6 @@
 # Hello, Hugo Ramoz here!
 
-<img src="https://github.com/hramoz99/hramoz99/assets/78046279/795488f9-5d7f-446c-93e0-5092334ffa14" height="250" width="450px" align="right">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="320" width="540px" align="right">
 
 Studying Information Systems at FIAP
 
