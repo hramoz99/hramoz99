@@ -1,6 +1,6 @@
 # Hello, Hugo Ramoz here!
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="260" width="390px" align="right">
+<img src="https://github.com/hramoz99/hramoz99/assets/78046279/795488f9-5d7f-446c-93e0-5092334ffa14" height="250" width="450px" align="right">
 
 Studying Information Systems at FIAP
 
@@ -17,15 +17,8 @@ Studying Information Systems at FIAP
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/hugo-ramoz-234473221/)
 
-<code><img height="20" src="https://user-images.githubusercontent.com/78046279/158082046-4a515fd8-cfda-4040-922e-c663e53aabb0.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/78046279/158082410-998aa278-9f92-47d3-b4ce-848df4445a39.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-
-
-
-
-
+<img height="100" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Provedores de Nuvem">
 
 <!---
 hramoz99/hramoz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
