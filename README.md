@@ -1,7 +1,7 @@
 # Hi, Hugo Ramoz here!
 
 Graduated in Computer Networks by SENAI; Currently studying Information Systems at FIAP.
-- - 💬 Ask me about anything [here](https://www.linkedin.com/in/hugo-ramoz-234473221/)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/hugo-ramoz-234473221/)
 
 
 ## Knowledge in:
@@ -70,19 +70,17 @@ Graduated in Computer Networks by SENAI; Currently studying Information Systems 
 
 :white_check_mark: Python.
 
-:white_check_mark: PowerShell
+:white_check_mark: PowerShell.
 
-:white_check_mark: Fortigate Firewall
+:white_check_mark: Fortigate Firewall.
 
-:white_check_mark: Office 365 Administration
-
-:white_check_mark: Cloudflare.
+:white_check_mark: Office 365 Administration.
 
 :white_check_mark: Office 365 Environment Administration.
 
-:white_check_mark: veeam Backup
+:white_check_mark: veeam Backup.
 
-:white_check_mark: Vcenter and Host ESXI
+:white_check_mark: Vcenter and Host ESXI.
 
 :white_check_mark: LGPD.
 
