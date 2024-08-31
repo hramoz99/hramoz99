@@ -1,6 +1,8 @@
 # Hi, Hugo Ramoz here!
 
 Graduated in Computer Networks by SENAI; Currently studying Information Systems at FIAP.
+- - 💬 Ask me about anything [here](https://www.linkedin.com/in/hugo-ramoz-234473221/)
+
 
 ## Knowledge in:
 
@@ -82,7 +84,7 @@ Graduated in Computer Networks by SENAI; Currently studying Information Systems 
 
 :white_check_mark: Vcenter and Host ESXI
 
-:white_check_mark: LGPD).
+:white_check_mark: LGPD.
 
 <!--
 **hramoz99/hramoz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
