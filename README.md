@@ -68,8 +68,6 @@ Graduated in Computer Networks by SENAI; Currently studying Information Systems 
 
 ### :pushpin: Other knowledge:
 
-:white_check_mark: Python.
-
 :white_check_mark: PowerShell.
 
 :white_check_mark: Fortigate Firewall.
