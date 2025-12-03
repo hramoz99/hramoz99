@@ -8,57 +8,57 @@ Graduated in Computer Networks by SENAI; Currently studying Information Systems 
 
 ### :computer: Windows Server skills and knowledge:
 
-:white_check_mark: DC services, using cross-domain trust, replication, sites and services, password replication policy.
+:white_check_mark: DC Services, using cross-domain trust, replication, sites and services, password replication policy.
 
-:white_check_mark: Creating command line users and mass import/export of AD users.
+:white_check_mark: Creating command line users and bulk import/export of AD users.
 
-:white_check_mark: Sharing configuration for users, home, madatory or mobile profile. Sharing services like DFS and NFS.
+:white_check_mark: Configuration sharing for users, Sharing of services such as DFS and NFS.
 
-:white_check_mark: Services like authenticated IIS and FTP.
+:white_check_mark: Services such as IIS and FTP authenticated
 
-:white_check_mark: VPN services using PPTP/L2TP IPsec/SSTP/IKEv2, remote access or site-to-site and Direct Access.
+:white_check_mark: VPN services using IPSec, SSL, remote or site-to-site access, and direct access.
 
 -----------------------------------------
 
 ### :penguin: Linux skills and knowledge:
 
-:white_check_mark: Administration of users, files and systems settings.
+:white_check_mark: Administration of users, files and system settings.
 
-:white_check_mark: Bash scripting, text processing tools, task automation and service management.
+:white_check_mark: Bash script, word processing tools, task automation and service management.
 
-:white_check_mark: Apache, SSH, FTP, Mail.
+:white_check_mark: Apache, SSH, FTP.
 
-:white_check_mark: Security services, disk encryption and RAID, log servers, backup, LDA, iptables.
+:white_check_mark: Security services, log servers, backup, LDA, IPtables.
 
 -----------------------------------------
 
 ### :globe_with_meridians: Cisco skills and knowledge:
 
-:white_check_mark: Routing Protocols, using encryption and metrics.
+:white_check_mark: Routing protocols, using cryptography and metrics.
 
-:white_check_mark: Network access, route distribution, login security, Layer 2 Security.
+:white_check_mark: Network access, VLANs, route distribution, login security.
 
-:white_check_mark: NAT/DNAT/SNAT/PAT.
+:white_check_mark: NAT/DNAT/PAT.
 
-:white_check_mark: VoIP and QoS.
+:white_check_mark: VPN, VoIP and QoS.
 
 -----------------------------------------
 
 ### :cloud: AWS knowledges:
 
-:white_check_mark: EC2, Spot, AutoScaling, ECS, ECR, Lambda, ELB, Beanstalk.
+:white_check_mark: EC2, Spot, Autoscaling, ECS, ECR, Lambda, ELB, Beanstalk.
 
-:white_check_mark: VPC, Transit Gateway, PrivateLink, API Gateway, Route 53, CloudFront.
+:white_check_mark: VPC, Transit Gateway, Route 53, CloudFront.
 
-:white_check_mark: IAM, Cognito, Organizations, GuardDuty, Inspector, Config, CloudTrail, WAF, CloudWatch.
+:white_check_mark: IAM, Organizations, Config, CloudTrail, WAF, CloudWatch.
 
 -----------------------------------------
 
 ### :cloud: Azure knowledges:
 
-:white_check_mark: Identity, governance, privacy, and compliance features.
+:white_check_mark: Identity, governance, Microsoft 365 privacy, and compliance features.
 
-:white_check_mark: Analytics workload on Azure.
+:white_check_mark: VMs, Azure Files, Blobs, VNet, Azure Policy, Defender for Cloud, Azure Sync, and Microsoft Entra ID.
 
 :white_check_mark: Work with all relational and non-relational data services in Azure.
 
