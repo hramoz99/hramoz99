@@ -38,19 +38,17 @@ Graduated in Computer Networks by SENAI; Currently studying Information Systems 
 
 :white_check_mark: VLANs, access control, route distribution, and authentication security.
 
-:white_check_mark: NAT, DNAT, and PAT configurations.
-
-:white_check_mark: VPNs, VoIP, and QoS implementations.
+:white_check_mark: VPNs, NAT, DNAT, and PAT configurations.
 
 -----------------------------------------
 
 ### :cloud: AWS knowledges:
 
-:white_check_mark: EC2, Autoscaling, Lambda, ELB, and Beanstalk.
+:white_check_mark: EC2, Autoscaling, Lambda, ELB.
 
 :white_check_mark: VPC, Transit Gateway, Route 53, and CloudFront.
 
-:white_check_mark: IAM, Organizations, Config, CloudTrail, WAF, and CloudWatch.
+:white_check_mark: IAM, S3, CloudTrail, WAF, and CloudWatch.
 
 -----------------------------------------
 
@@ -58,7 +56,7 @@ Graduated in Computer Networks by SENAI; Currently studying Information Systems 
 
 :white_check_mark: Identity, governance, privacy, and compliance features.
 
-:white_check_mark: VMs, Azure Files, Blobs, VNet, Azure Policy, Defender for Cloud, Azure Sync, and Microsoft Entra ID.
+:white_check_mark: VMs, Azure Files, Blobs, VNet, Azure Policy, Azure Sync, and Microsoft Entra ID.
 
 :white_check_mark: Azure CLI and Azure PowerShell Cmdlets.
 
