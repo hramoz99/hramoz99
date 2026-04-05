@@ -45,7 +45,7 @@ Experience in threat monitoring, log analysis, incident response, and identity a
 - IIS & FTP configuration
 ---
 
-#### Linux
+#### 🐧 Linux
 - System hardening & secure configurations
 - Firewall (iptables)
 - Log analysis & monitoring
@@ -62,7 +62,7 @@ Experience in threat monitoring, log analysis, incident response, and identity a
 
 ---
 
-## 📌 Tools & Technologies
+### 📌 Tools & Technologies
 - AWS (IAM, WAF, CloudTrail, CloudWatch, VPC)
 - Azure (Entra ID, Security & Governance tools)
 - Fortigate Firewall
